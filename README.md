@@ -15,7 +15,8 @@
 
 
 ### Glad to see you here!  
-Full Stack Developer, with English level B1; with experience creating web applications. Using the PERN Stack (PostgreSQL, Express, React, Nodejs) to generate scalable and modularizable projects. I have knowledge in technologies such as JavaScript, React.js, Node.Js, PostgreSQL, CSS, HTML, Express, Sequelize, Typescript, SQL and React Native.Passionate about the implementation of technology solutions in everyday life and the growth of companies through the digitalization of processes, proactive, eager to learn new things and who develops well in work teams focused on solving problems. problems, interested in continuing to develop as a full stack developer.  
+I am a full stack web developer, with English level B1; Experienced in creating web applications. Use of PERN Stack (PostgreSQL, Express, React, Nodejs) to generate scalable and modularizable projects. I like to work closely with designers and other web developers to create modern and attractive websites and applications. I have a keen eye for detail and like to create simple, elegant solutions to complex problems. I have knowledge in technologies such as JavaScript, React.js, Node.Js, PostgreSQL, CSS, HTML, Express, Sequelize, Typescript, SQL and React Native. 
+I am passionate about constant learning and the implementation of technological solutions on a day-to-day basis and the growth of companies through the digitalization of processes, proactive, eager to learn new things and who performs well in work teams focused on problem solving. Always focused on developing myself as a full stack developer and keeping up with the latest trends in web design and development. 
   
 
 <br/>  
