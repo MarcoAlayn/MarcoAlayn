@@ -100,5 +100,4 @@ I am passionate about constant learning and the implementation of technological 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
