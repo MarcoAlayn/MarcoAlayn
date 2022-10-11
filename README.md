@@ -8,11 +8,9 @@
 </a>
 <a href="https://dev.to/marcoalayn" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-<a href="#">
-<img src="https://img.shields.io/badge/Mail:%20-%2324292e.svg?&style=for-the-badge&logo=e-mail:%20Marc_rob92@hotmail.com%20&logoColor=white%20alt=e-mail:%20Marc_rob92@hotmail.com%20%20style=%22margin-bottom:%205px;%22" />
-</a> 
-## marc_rob92@hotmail.com
+</a>
+
+#### E-mail: *marc_rob92@hotmail.com*
 
 
 ### Glad to see you here!  
