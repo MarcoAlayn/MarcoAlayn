@@ -9,6 +9,7 @@
 <a href="https://dev.to/marcoalayn" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
+e-mail: Marc_rob92@hotmail.com 
   
 
 
